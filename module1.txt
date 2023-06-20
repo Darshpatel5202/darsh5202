@@ -50,5 +50,8 @@ After the deployment of a product on the production environment, maintenance of 
 what is dfd?
 DFD is a graphical or visual representation using a standardized set of symbols and notations to describe a business's operations through data movement.
 
+what is flowchart?
+A flowchart is a diagram depicting a process, a system or a computer algorithm.
+
 what is use case diagram?
 Use-case diagrams describe the high-level functions and scope of a system. These diagrams also identify the interactions between the system and its actors.
