@@ -11,7 +11,7 @@ main(){
 			scanf("%d",&a);
 			if(a>maxi){
 				maxi=a;
-			}if(a<mini){
+			}else if(a<mini){
 				mini=a;
 			}
 	}

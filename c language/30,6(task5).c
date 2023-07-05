@@ -5,9 +5,9 @@ main()
 	for(i=1;i<=3;i++){
 		if(a<min){
 			min=a;
-		}if(b<min){
+		}else if(b<min){
 			min=b;
-		}if(c<min){
+		}else if(c<min){
 			min=c;
 		}
 		a=5;
