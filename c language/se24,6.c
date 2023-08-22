@@ -14,5 +14,7 @@ main()
 	scanf("%d",&num);
 	if(num>18){
 		printf("eligible");
+	}else {
+		printf("not eligible");
 	}
 }
